@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1482887908 source:c:\users\user\desktop\minesweeper\main.c
+	"main.h"
+
+1482514868 source:c:\users\user\desktop\minesweeper\actions.c
+	"actions.h"
+	"main.h"
+
+1482456828 c:\users\user\desktop\minesweeper\actions.h
+
+1482782645 c:\users\user\desktop\minesweeper\main.h
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<pthread.h>
+	<windows.h>
+	<ctype.h>
+
+1482889189 source:c:\users\user\desktop\minesweeper\finish.c
+	"finish.h"
+
+1482456946 c:\users\user\desktop\minesweeper\finish.h
+	"main.h"
+
+1482788303 source:c:\users\user\desktop\minesweeper\print.c
+	"main.h"
+	"print.h"
+
+1482456827 c:\users\user\desktop\minesweeper\print.h
+
+1482887189 source:c:\users\user\desktop\minesweeper\saveandload.c
+	"saveAndLoad.h"
+	"main.h"
+	"thread.h"
+
+1482456827 c:\users\user\desktop\minesweeper\saveandload.h
+
+1482887818 source:c:\users\user\desktop\minesweeper\start.c
+	"start.h"
+	"main.h"
+	"thread.h"
+
+1482455398 c:\users\user\desktop\minesweeper\start.h
+
+1482457818 c:\users\user\desktop\minesweeper\thread.h
+	"main.h"
+
+1482888868 source:c:\users\user\desktop\minesweeper\thread.c
+	"thread.h"
+
+1482514868 source:c:\users\user\desktop\minesweeper_by_sajed_hassan_id_28\actions.c
+	"actions.h"
+	"main.h"
+
+1482456828 c:\users\user\desktop\minesweeper_by_sajed_hassan_id_28\actions.h
+
+1482782645 c:\users\user\desktop\minesweeper_by_sajed_hassan_id_28\main.h
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<pthread.h>
+	<windows.h>
+	<ctype.h>
+
+1482889189 source:c:\users\user\desktop\minesweeper_by_sajed_hassan_id_28\finish.c
+	"finish.h"
+
+1482456946 c:\users\user\desktop\minesweeper_by_sajed_hassan_id_28\finish.h
+	"main.h"
+
+1482887908 source:c:\users\user\desktop\minesweeper_by_sajed_hassan_id_28\main.c
+	"main.h"
+
+1482788303 source:c:\users\user\desktop\minesweeper_by_sajed_hassan_id_28\print.c
+	"main.h"
+	"print.h"
+
+1482456827 c:\users\user\desktop\minesweeper_by_sajed_hassan_id_28\print.h
+
+1482887189 source:c:\users\user\desktop\minesweeper_by_sajed_hassan_id_28\saveandload.c
+	"saveAndLoad.h"
+	"main.h"
+	"thread.h"
+
+1482456827 c:\users\user\desktop\minesweeper_by_sajed_hassan_id_28\saveandload.h
+
+1482457818 c:\users\user\desktop\minesweeper_by_sajed_hassan_id_28\thread.h
+	"main.h"
+
+1482887818 source:c:\users\user\desktop\minesweeper_by_sajed_hassan_id_28\start.c
+	"start.h"
+	"main.h"
+	"thread.h"
+
+1482455398 c:\users\user\desktop\minesweeper_by_sajed_hassan_id_28\start.h
+
+1482888868 source:c:\users\user\desktop\minesweeper_by_sajed_hassan_id_28\thread.c
+	"thread.h"
+
